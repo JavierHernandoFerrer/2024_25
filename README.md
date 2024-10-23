@@ -1,3 +1,3 @@
 # 2024_25
-+ 23/10/2024
-+ Actualizando el Commit
++ Javier 23/10/2024
++ Actualizando el Commit (ahora está completo)
