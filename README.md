@@ -3,5 +3,5 @@
 + Actualizando el Commit (ahora está completo)
 
 Estoy modificando
-De nuevo
-Este archivo de entornos
+- De nuevo
+- Este archivo de entornos
